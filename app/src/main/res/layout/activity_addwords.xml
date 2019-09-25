@@ -40,6 +40,7 @@
             android:textColorHint="#D81E35"
             android:inputType="text"
             android:padding="10dp"
+            android:drawablePadding="5dp"
             android:drawableStart="@drawable/ic_words"/>
 
         <EditText
@@ -54,6 +55,7 @@
             android:textColorHint="#D81E35"
             android:layout_marginEnd="20dp"
             android:layout_marginStart="20dp"
+            android:drawablePadding="5dp"
             android:drawableStart="@drawable/ic_word_meaning"/>
         <Button
             android:layout_width="match_parent"
